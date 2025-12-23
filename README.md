@@ -2,18 +2,19 @@
 
 ### 🤖 AI Engineer | Agentic Systems Architect | Open Source Maintainer
 
-[cite_start]I am an **AI Engineer** specializing in **Agentic AI workflows, RAG architectures, and custom Machine Learning algorithms**[cite: 3]. [cite_start]Currently, I work at **Shoreline AI**, bridging technical AI capabilities with business strategy to solve complex industrial problems[cite: 4, 7].
+I am an **AI Engineer** specializing in **Agentic AI workflows, RAG architectures, and custom Machine Learning algorithms**. Currently, I work at **Shoreline AI**, bridging technical AI capabilities with business strategy to solve complex industrial problems.
 
-[cite_start]I am also a **Google Cloud Certified Generative AI Leader** passionate about transforming abstract AI concepts into high-ROI business use cases[cite: 28, 30].
+I am also a **Google Cloud Certified Generative AI Leader** passionate about transforming abstract AI concepts into high-ROI business use cases.
 
 ---
 
 ### 🛠️ Tech Stack & Arsenal
 
-* [cite_start]**GenAI & Agents:** LangChain, LlamaIndex, RAG, OpenAI (GPT-4), RLHF, Prompt Engineering[cite: 11, 53].
-* [cite_start]**Core AI/ML:** PyTorch, TensorFlow, Scikit-learn, Custom Algorithm Design, Time-series Analysis[cite: 54].
-* [cite_start]**Backend & DevOps:** Python, SQL, Docker, Fast/REST APIs, AWS, GCP[cite: 13, 55].
-* [cite_start]**Tools:** Git, CI/CD, MLflow[cite: 55, 56].
+* **GenAI & Agents:** LangChain, LlamaIndex, RAG, OpenAI (GPT-4), RLHF, Prompt Engineering.
+* **Core AI/ML:** PyTorch, TensorFlow, Scikit-learn, Custom Algorithm Design, Time-series Analysis.
+* **Computer Vision:** OpenCV, Real-time object detection.
+* **Backend & DevOps:** Python, SQL, Docker, Fast/REST APIs, AWS, GCP.
+* **Tools:** Git, CI/CD, MLflow.
 
 ---
 
@@ -21,30 +22,50 @@
 
 #### 📦 **[vibrational-analysis (PyPI Library)](https://pypi.org/project/vibration-analysis/)**
 *Open Source Author & Maintainer*
-[cite_start]A Python library designed for advanced vibration data processing in Industrial IoT[cite: 35].
-* [cite_start]**Impact:** Widely adopted by developers for edge-device constraints[cite: 37].
-* [cite_start]**Tech:** Signal Processing (FFT, Envelope Analysis), Python[cite: 36].
+A Python library designed for advanced vibration data processing in Industrial IoT.
+* **Impact:** Widely adopted by developers for edge-device constraints.
+* **Tech:** Signal Processing (FFT, Envelope Analysis), Python.
+
+#### 🚦 **[Adaptive Traffic Management System](https://github.com/gokulbk01/IoT-Forum-Traffic-Management-Project)**
+*Computer Vision & IoT*
+A dynamic traffic control system designed to reduce idle time and emissions.
+* **Key Tech:** Built using **OpenCV** to detect vehicle density and automatically allot signal timers.
+* **Algorithm:** Developed a custom lane-priority algorithm based on **Priority Queues** for high-congestion scenarios.
+* **Achievement:** Secured Top 20 Rank at a national-level hackathon (IIT Delhi).
 
 #### 📧 **[ColdMailer AI](https://coldmailer.tiiny.site/)**
 *Automated Outbound Engagement Agent*
-[cite_start]An agentic workflow using LangChain to personalize email outreach at scale.
-* [cite_start]**Key Feature:** Uses GPT-4 to analyze recipient context and generate dynamic, human-like replies[cite: 41].
+An agentic workflow using LangChain to personalize email outreach at scale.
+* **Key Feature:** Uses GPT-4 to analyze recipient context and generate dynamic, human-like replies.
 
 #### 🏭 **[Asset Management Bot]**
 *Industrial RAG Agent*
-[cite_start]An end-to-end GenAI agent capable of querying technical documentation and real-time logs simultaneously[cite: 50].
-* [cite_start]**Result:** Enabled operators to perform complex diagnostics via natural language[cite: 51].
+An end-to-end GenAI agent capable of querying technical documentation and real-time logs simultaneously.
+* **Result:** Enabled operators to perform complex diagnostics via natural language.
+
+---
+
+### 📚 Research & Publications
+I have published **2 AI research papers**, including work in SCOPUS-indexed journals.
+
+* **Smart Traffic: Integrating Machine Learning, and YOLO for Adaptive Traffic Management System** - *IJISAE(SCOPUS Index)*
+  * Focus: This study highlights the potential of IoT-driven adaptive traffic management in producing efficient, environmentally friendly, and responsive urban                 traffic systems.
+  * [https://ijisae.org/index.php/IJISAE/article/view/4520]
+
+* **Enhancing Anomaly Detection in Oil and Gas Rotating Machinery through a Physics-Informed Data Filtration Pipeline** - *International Journal of Scientific Research in Engineering and Management (IJSREM)*
+  * Focus: Detailed AI based approach for better anomaly detection in heavy machinery.
+  * [https://ijsrem.com/download/enhancing-anomaly-detection-in-oil-and-gas-rotating-machinery-through-a-physics-informed-data-filtration-pipeline/]
 
 ---
 
 ### 🏆 Achievements & Certifications
-* [cite_start]**Google Cloud Certified:** Generative AI Leader (Dec 2025).
-* [cite_start]**Recognition:** LinkedIn Top AI Voice & UiPath Developer Champion (Global Top 71)[cite: 66, 67].
-* [cite_start]**Innovation:** Copyright Granted for Carbon Footprint & Sustainability analytical framework[cite: 64].
-* [cite_start]**Research:** Published 2 AI research papers (including SCOPUS indexed journals)[cite: 65].
+* **Google Cloud Certified:** Generative AI Leader (Dec 2025).
+* **Recognition:** LinkedIn Top AI Voice & UiPath Developer Champion (Global Top 71).
+* **Innovation:** Copyright Granted for Carbon Footprint & Sustainability analytical framework.
+* **Academic:** Best Outgoing Student 2024 (CGPA: 9.4).
 
 ---
 
 ### 📫 Connect with Me
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com)
-* [cite_start]**Email:** gokulbk01@gmail.com [cite: 2]
+* **LinkedIn:** [https://www.linkedin.com/in/gokul-bk01/]
+* **Email:** gokulbk01@gmail.com
