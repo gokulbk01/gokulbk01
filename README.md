@@ -45,11 +45,6 @@
 
 ---
 
-### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
----
-
 ### 📫 Connect with Me
 * **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com)
 * [cite_start]**Email:** gokulbk01@gmail.com [cite: 2]
